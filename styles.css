@@ -1,0 +1,22 @@
+h1 {
+    background-color: black;
+    font-family: cursive;
+}
+.white {
+    color:white
+}
+.blue {
+    color:turquoise
+}
+h2 {
+    background-color:rebeccapurple;
+    color:white;
+    font-style: italic;
+    text-align: center;
+}
+h3 {
+   background-color: lightskyblue;
+   font-family: cursive;
+   color:rgb(28, 2, 46);
+   text-align: right;
+}
